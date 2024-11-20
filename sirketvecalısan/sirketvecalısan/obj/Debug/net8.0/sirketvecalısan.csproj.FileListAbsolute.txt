@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/bin/Debug/net8.0/sirketvecalısan
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/bin/Debug/net8.0/sirketvecalısan.deps.json
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/bin/Debug/net8.0/sirketvecalısan.runtimeconfig.json
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/bin/Debug/net8.0/sirketvecalısan.dll
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/bin/Debug/net8.0/sirketvecalısan.pdb
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.AssemblyInfo.cs
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.dll
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/refint/sirketvecalısan.dll
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.pdb
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/sirketvecalısan.genruntimeconfig.cache
+/Users/svage/RiderProjects/sirketvecalısan/sirketvecalısan/obj/Debug/net8.0/ref/sirketvecalısan.dll
